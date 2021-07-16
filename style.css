@@ -1,0 +1,30 @@
+
+
+.events {
+    display:flex;
+    min-height: 60vh;
+    flex-wrap: wrap;
+    display: block;
+    height: 50px;
+    width: 100%;
+    color: rgb(15, 1, 1);
+    font-size: 50px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    text-align: center;
+    padding:15px;
+    
+}
+
+.event-key { background:#32e7ab;}
+.event-location { background:#134deb;}
+.event-which { background:#ff4757;}
+.event-code { background:#f1c40f;}
+
+.header{
+    display:flex;
+    font-style: italic;
+    font:x-large;
+   font-family: fantasy;
+   text-align: center;
+   justify-content: center
+};
